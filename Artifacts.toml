@@ -1,0 +1,200 @@
+[[boostpython]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f0bf0671f252160beb943c625476d129bb2574ac"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "4441cee4f49de3584eb291b65485c54cfd11c9f372dfe0651ca27291b226bd48"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[boostpython]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "927c33e705a490b487932194307a71fd1afeb561"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "5f07e0a87fdc6572ecb0c5ce9a4936a0fe62f069aa02e736de2509ee44f46251"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[boostpython]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "167652cd7821cb071f9ac6b288ef089060875ba8"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "47c9b72266c4d9b6b9c206233a0157eec2947ac59fa6e36bca24325f9bfc5bc3"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.aarch64-linux-musl-cxx03.tar.gz"
+[[boostpython]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7b94d780c187ab741fc3eb859b87bf20e9372c8"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "05f5502cce72359419e2d9d7383300f6aa5b0714f43f2a0d9afe990b09a108d1"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.aarch64-linux-musl-cxx11.tar.gz"
+[[boostpython]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6fbf379446dd9392037fa5bbdf88fbf5051b22b0"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "1008f8729967e2aa0646247fbc3319a704016e36ee7ee314136cb4b326e6576c"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[boostpython]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f0c74c82c58b4549ea2ffd5a2acf7c45d49eed2"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "b557447c8eca7a601bbb839906b9216567006719e0d2a46b672abbc1abc8d1af"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[boostpython]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d3747004947601c838ceb4e23280946d0ed90e2"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "2ca3b11229d65eb3e611d0d3f6ae131c59fdc8e66cd11e6c4fd49b5ab608b6db"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[boostpython]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d54f0dff49e3a15880b92e8c3ccdc1547a257599"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "7bcf02e067f74d8eee401f7834565005f20c1f5d0a246ceb39d030b111e67184"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[boostpython]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93641f273681f626f160a2f67d6c0a5751628a7d"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "7f281149d64a321011153d0bea3bc0acfe3c2b1c04a994bbd698040ef0fb6486"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.i686-linux-gnu-cxx03.tar.gz"
+[[boostpython]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3097cc1aebce1d74f9802aa97b2fd47ca0dafeb7"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "7bce68e6f9c91402acf4443796944ca99e1d89b4baecfbe5ded3a0c73869b9c8"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.i686-linux-gnu-cxx11.tar.gz"
+[[boostpython]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e1cbd93c3f1ac27808b6ab551a29cf96bb19071"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "7b4c542e38c0ac40d250a2905bf5964f4dd8d6cff2810a0e7e840a6af91df7bb"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.i686-linux-musl-cxx03.tar.gz"
+[[boostpython]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d53ee85b8375bd2dc134d2b4a577e991b8c95844"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "736814c3817fa0e35fc3637b4ec8b650daaf22a375c539d80c74ce0dc0e0d75f"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.i686-linux-musl-cxx11.tar.gz"
+[[boostpython]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3557e6acbbc7551ea2c8cc7166b95159605f8e50"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "2efd7b815bb258ea6e394e8cf5752e5065c8ce5778cb0324afee2cab39900c51"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[boostpython]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "890296c47d530a4ddbf3a0f20d928bc72f28d31f"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "636a36f3c8e2fd44a09a997ceafb4114b736dd2dd89f0e121f9651a423078c6e"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[boostpython]]
+arch = "x86_64"
+git-tree-sha1 = "206f74be4eb8cdaf6d053fc744ba47aa405fc302"
+os = "macos"
+
+    [[boostpython.download]]
+    sha256 = "d2acb9060ac5ae8fa1d8757f02729acc2e54702eda87b7e88700610fff89ffb3"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.x86_64-apple-darwin.tar.gz"
+[[boostpython]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a88af6051f1cab6ff7768e0675542c544733e5e"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "fdd13ff7ef7adbba31bfb4e32db9165e9b1e536f114db1485339859aaff8550e"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[boostpython]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41fada107dbd6861e71513f4820762a230f75919"
+libc = "glibc"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "bc81d1e535499e5e141c805423f12f65388d2948def817c0d170520684a1cdfb"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[boostpython]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cbbfbc8a615c523211cc358d34ba4bbfc303a2fa"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "7709bf35b5fd095555776465dce00703544b8fa0984ec4e884163c4226e0203b"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.x86_64-linux-musl-cxx03.tar.gz"
+[[boostpython]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a7bb6287962e7a4571198f6c44e2a4a080b592b"
+libc = "musl"
+os = "linux"
+
+    [[boostpython.download]]
+    sha256 = "5c1eec52f391ed1f1c2d4c0d926fbd177b4109d8ef13e74230324c74c4746436"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.x86_64-linux-musl-cxx11.tar.gz"
+[[boostpython]]
+arch = "x86_64"
+git-tree-sha1 = "9b3a3fe3996dccd1caae66cb4c65f82823aebbd7"
+os = "freebsd"
+
+    [[boostpython.download]]
+    sha256 = "21d48412307925dc048d5385b5ab9de9d27c23c701e29e82f1493ffa9bdd894b"
+    url = "https://github.com/JuliaBinaryWrappers/boostpython_jll.jl/releases/download/boostpython-v1.76.0+0/boostpython.v1.76.0.x86_64-unknown-freebsd.tar.gz"
